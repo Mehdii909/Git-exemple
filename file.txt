@@ -6,4 +6,6 @@ adding home page
 
 adding sign up page
 
+adding cards
+
 adding form page
