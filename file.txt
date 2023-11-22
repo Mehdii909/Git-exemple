@@ -2,4 +2,6 @@ hi its first file from main branch.
 
 adding login page
 
+adding home page
+
 adding sign up page
